@@ -132,7 +132,7 @@ export class MapService {
         'line-join':'round'
       },
       paint: {
-        'line-color': 'black',
+        'line-color': 'red',
         'line-width': 3
       }
     });
